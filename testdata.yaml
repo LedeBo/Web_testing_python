@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+login: 'GB2023090a58615'
+password: 'c1d3060e8f'
+login_2: 'amypond'
+password_2: '099df4bd2c'
